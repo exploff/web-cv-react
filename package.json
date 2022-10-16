@@ -1,6 +1,6 @@
 {
   "name": "web-cv",
-  "homepage": " http://exploff.github.io/web-cv-react", 
+  "homepage": "http://exploff.github.io/web-cv-react", 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
