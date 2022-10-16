@@ -1,0 +1,144 @@
+{
+    "navbar": [
+		"About",
+		"Skills",
+		"Professional experiences",
+        "Personal experiences",
+        "Education",
+		"Contact"
+	],
+    "header" : {
+        "name" : "Julien Bedia",
+        "job" : "Full Stack Developer",
+        "button" : {
+            "cv": "Download CV",
+            "contact": "Contact me"
+        },
+        "tooltip" : {
+            "linkedin": "Follow me on Linkedin",
+            "github": "Follow me on Github"
+
+        }
+    },
+    "about" : {
+        "title" : "About me",
+        "description" : [
+            "Hello! I joined the digital world and found my vocation for BackEnd development as well as automation and system and architecture administration (DevOps).",
+            "Familiar with Agile methods (SCRUM)",
+            "Architecture, automation and scripting (DevOps) - Docker / Shell / CI&CD / Python",
+            "BackEnd Development - Java / C# / PHP",
+            "Liferay",
+            "FrontEnd Development - JS Library/Framework (ReactJS, AngularJS)",
+            "If you want to know more, I am fond of personal project development and I will be delighted to present them to you!"
+        ],
+        "basicInformation" : "Basic information",
+        "age" : [
+            "Age",
+            "24"
+        ],
+        "email" : [
+            "Email",
+            "bedia.pro@gmail.com"
+        ],
+        "address" : [
+            "Address",
+            "Toulouse, France"
+        ]
+    },
+    "skills" : {
+        "title" : "Professional Skills"
+    },
+    "workExperience" : {
+        "title" : "Professional experiences",
+        "experiences" : [
+            {
+                "title" : "Full Stack Developer",
+                "company" : "Beorn Technologies",
+                "date" : "August 2021 - Present",
+                "description" : "TMA and Gradle/Maven module development for Liferay 7 / 7.4. \nLiferay Database Upgrade and Data Integration. \nEnvironment preparation and experience in DevOps. \nIntegration into a developer team assigned to the entire chain of an IT project. \nDevelopment of an anonymization tool for a Liferay database.",
+                "competences" : "Talend / Java / Liferay / Docker / Kubernetes / Python / SCRUM"
+            },
+            {
+                "title" : "Full Stack Developer",
+                "company" : "IUCT Oncopole",
+                "date" : "June 2021 - August 2021",
+                "description" : "Development of a plug-in for the LMS (Learning Management System) Moodle in order to view medical imaging studies (DICOM). \nDevelopment of a presentation website. \nProposal for an optimization of the downloading of a DICOM study for the Orthanc Server.",
+                "competences" : "PHP / ReactJS / Orthanc Server / C - C++ / Moodle / Docker"
+            }
+        ]
+    },
+    "personnalExperience" : {
+        "title" : "Personal experiences",
+        "experiences" : [
+            {
+                "title" : "Website development",
+                "description" : "Development of a website with the PHP Symfony 6 framework. Planning management tool and pay slip printing for childminder.",
+                "pathImage" : "/images/assisthelp.jpg"
+            },
+            {
+                "title" : "Computer Night",
+                "description" : "Participation in the night of computing. A national competition that brings together students, teachers and companies to work together on the development of a web application. \nYear 2020: 1st and 3rd prize. \nYear 2021: 2nd et 3rd price.",
+                "pathImage" : "/images/nuitinfo.jpg"
+            },
+            {
+                "title" : "Suite ELK",
+                "description" : "School project for a whole year on the development of a data visualization application with the ELK suite. State of the art / ElasticSearch / Logstash / Kibana.",
+                "pathImage" : "/images/elk.svg"
+            },
+            {
+                "title" : "Civic Service",
+                "description" : "Civic service in parallel with my studies for a period of 8 months. Intervention, follow-up of disabled athletes in competition and leisure, social and human contact, logistics.",
+                "pathImage" : "/images/strh.png"
+            }
+        ]
+    },
+    "education" : {
+        "title" : "Education",
+        "schools" : [
+            {
+                "level" : "Master’s Degree of Engineering",
+                "date" : "2022 - 2024",
+                "school" : "Ynov - Toulouse",
+                "title" : "Expert en Développement Logiciel, Mobile & IoT",
+                "description" : "Mastère Expert en Développement Logiciel, Mobile & IoT"
+            },
+            {
+                "level" : "Bachelor of Science",
+                "date" : "2021 - 2022",
+                "school" : "IUT Blagnac - Toulouse",
+                "title" : "LP APSIO",
+                "description" : "LP Analyste Programmeur de Systèmes Informatiques Ouverts"
+            },
+            {
+                "level" : "BTEC Higher National Diploma",
+                "date" : "2020 - 2021",
+                "school" : "IUT Rangueil - Toulouse",
+                "title" : "DUT Informatique",
+                "description" : "DUT Informatique en Année Spéciale"
+            },
+            {
+                "level" : "Bachelor of Science",
+                "date" : "2017 - 2019",
+                "school" : "Université Paul Sabatier - Toulouse",
+                "title" : "Licence STAPS",
+                "description" : "Licence en Sciences et Techniques des Activités Physiques et Sportives"
+            },
+            {
+                "level" : "High School diploma",
+                "date" : "2015",
+                "school" : "Lycée LaBordeBasse - Castres",
+                "title" : "Baccalauréat Scientifique",
+                "description" : "High School diploma Mathematics option"
+            }
+        ]
+    },
+    "contact" : {
+        "title" : "Contact me",
+        "email" : "Email",
+        "emailValue" : "bedia.pro@gmail.com"
+    },
+    "footer" : {
+        "title" : "Julien Bedia",
+        "conditions" : "Professional career"
+    }
+}

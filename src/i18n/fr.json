@@ -1,0 +1,145 @@
+{
+    "navbar" : [
+		"À propos",
+		"Compétences",
+		"Experiences profesionnelles",
+        "Experiences personnelles",
+        "Études",
+		"Contact"
+	],
+    "header" : {
+        "name" : "Julien Bedia",
+        "job" : "Développeur Full Stack",
+        "button" : {
+            "cv" : "Télécharger CV",
+            "contact" : "Me contacter"
+        },
+        "tooltip" : {
+            "linkedin": "Mon profil LinkedIn",
+            "github": "Mon profil GitHub"
+
+        }
+    },
+    "about" : {
+        "title" : "À propos",
+        "description" : [
+            "Hello! J'ai rejoint le monde du numérique et trouvé ma vocation pour le développement BackEnd ainsi que l'automatisation et l'administration système et d'architecture (DevOps).",
+            "Familier avec les méthodes Agiles (SCRUM)",
+            "Architecture, automatisation et scripting (DevOps) - Docker / Shell / CI&CD / Python",
+            "Gestion et indéxation de données - ElasticSearch / Logstash / Kibana / Talend / MySQL / SQL Server",
+            "Développement BackEnd - Java / C# / PHP",
+            "Liferay",
+            "Développement FrontEnd - Librairie/Framework JS (ReactJS, AngularJS)",
+            "Si vous souhaitez en savoir plus, je suis friand de développement de projet personnel et je serai ravi de vous les présenter !"
+        ],
+        "basicInformation" : "Informations de base",
+        "age" : [
+            "Âge",
+            "24 ans"
+        ],
+        "email" : [
+            "Email",
+            "bedia.pro@gmail.com"
+        ],
+        "address" : [
+            "Adresse",
+            "Toulouse, France"
+        ]
+    },
+    "skills" : {
+        "title": "Compétences techniques"
+    },
+    "workExperience" : {
+        "title" : "Expériences professionnelles",
+        "experiences" : [
+            {
+                "title" : "Développeur Full Stack",
+                "company" : "Beorn Technologies",
+                "date" : "Août 2021 - Aujourd'hui",
+                "description" : "TMA et développement de module Gradle/Maven pour Liferay 7 / 7.4. \nMise à niveau de base de données Liferay et intégration de données. \nPréparation d'environnement et expérience en DevOps. \nIntégration dans une équipe de développeur affectée à toute la chaîne d'un projet informatique. \nDéveloppement d'un outil d'anonymisation d'une base de données Liferay.",
+                "competences" : "Talend / Java / Liferay / Docker / Kubernetes / Python / SCRUM"
+            },
+            {
+                "title" : "Développeur Full Stack",
+                "company" : "IUCT Oncopole",
+                "date" : "Juin 2021 - Août 2021",
+                "description" : "Développement d'un plug-in pour le LMS (Learning Management System) Moodle dans le but de visionner des études d'imagerie médicale (DICOM). \nDéveloppement d'un site web de présentation. \nProposition d'une optimisation du téléchargement d'une étude DICOM pour le serveur Orthanc Server.",
+                "competences" : "PHP / ReactJS / Orthanc Server / C - C++ / Moodle / Docker"
+            }
+        ]
+    },
+    "personnalExperience" : {
+        "title" : "Expériences personnelles",
+        "experiences" : [
+            {
+                "title" : "Développement d'un site web",
+                "description" : "Développement d'un site web avec le framework PHP Symfony 6. Outil de gestion de planning et d'impression de fiche de salaire pour assistante maternelle.",
+                "pathImage" : "/images/assisthelp.jpg"
+            },
+            {
+                "title" : "Nuit de l'informatique",
+                "description" : "Participation à la nuit de l'informatique. Une compétition nationale qui réunit étudiants, enseignants et entreprises pour travailler ensemble sur le développement d’une application web. \nAnnée 2020 : 1er et 3eme prix. \nAnnée 2021 : 2nd et 3eme prix.",
+                "pathImage" : "/images/nuitinfo.jpg"
+            },
+            {
+                "title" : "Suite ELK",
+                "description" : "Projet scolaire durant une année entière sur le développement d'une application de visualisation de données avec la suite ELK. Etat de l'art / ElasticSearch / Logstash / Kibana.",
+                "pathImage" : "/images/elk.svg"
+            },
+            {
+                "title" : "Service Civique",
+                "description" : "Service civique en parallèle de mes études d’une durée de 8 mois. Intervention, suivi d’handi sportifs en compétition et en loisir, contact social et humain, logistique.",
+                "pathImage" : "/images/strh.png"
+            }
+        ]
+    },
+    "education" : {
+        "title" : "Formation",
+        "schools" : [
+            {
+                "level" : "Master",
+                "date" : "2022 - 2024",
+                "school" : "Ynov - Toulouse",
+                "title" : "Expert en Développement Logiciel, Mobile & IoT",
+                "description" : "Mastère Expert en Développement Logiciel, Mobile & IoT"
+            },
+            {
+                "level" : "Licence",
+                "date" : "2021 - 2022",
+                "school" : "IUT Blagnac - Toulouse",
+                "title" : "LP APSIO",
+                "description" : "LP Analyste Programmeur de Systèmes Informatiques Ouverts"
+            },
+            {
+                "level" : "DUT",
+                "date" : "2020 - 2021",
+                "school" : "IUT Rangueil - Toulouse",
+                "title" : "DUT Informatique",
+                "description" : "DUT Informatique en Année Spéciale"
+            },
+            {
+                "level" : "Licence",
+                "date" : "2017 - 2019",
+                "school" : "Université Paul Sabatier - Toulouse",
+                "title" : "Licence STAPS",
+                "description" : "Licence en Sciences et Techniques des Activités Physiques et Sportives"
+            },
+            {
+                "level" : "Baccalauréat",
+                "date" : "2015",
+                "school" : "Lycée LaBordeBasse - Castres",
+                "title" : "Baccalauréat Scientifique",
+                "description" : "Baccalauréat Scientifique spécialité Mathématiques"
+            }
+        ]
+    },
+    "contact" : {
+        "title" : "Me contacter",
+        "email" : "Email",
+        "emailValue" : "bedia.pro@gmail.com"
+    },
+    "footer" : {
+        "title" : "Julien Bedia",
+        "conditions" : "Présentation parcours professionnel"
+    }
+}
