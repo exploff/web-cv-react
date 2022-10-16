@@ -8,7 +8,7 @@ function PersonnalExperience() {
   return (
     <div className="section" id="perExperience">
         <div className="container cc-experience">
-            <div className="h4 text-center mb-4 title">Personnal Experience</div>
+            <div className="h4 text-center mb-4 title">{t('personnalExperience.title')}</div>
             <Personnal title={t('personnalExperience.experiences.0.title')}
                 description={t('personnalExperience.experiences.0.description')}
                 pathImage={t('personnalExperience.experiences.0.pathImage')}/>
