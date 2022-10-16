@@ -6,9 +6,9 @@ function Education() {
   const { t } = useTranslation();
 
   return (
-    <div class="section" id="education">
-        <div class="container cc-education">
-            <div class="h4 text-center mb-4 title">{t('education.title')}</div>
+    <div className="section" id="education">
+        <div className="container cc-education">
+            <div className="h4 text-center mb-4 title">{t('education.title')}</div>
                 <School level={t('education.schools.0.level')} 
                     date={t('education.schools.0.date')} 
                     school={t('education.schools.0.school')} 
